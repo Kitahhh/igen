@@ -1,0 +1,46 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.index-hatter {
+    background-color: #f2f2f2;
+}
+
+.picasso-hatter {
+    background-color: #ffe0cc;
+}
+
+.vangogh-hatter {
+    background-image: url('kepek/hatter.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+img.balra {
+    float: left;
+    margin: 10px;
+    width: 200px;
+}
+
+img.jobbra {
+    float: right;
+    margin: 10px;
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
